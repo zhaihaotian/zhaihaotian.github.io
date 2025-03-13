@@ -26,7 +26,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
   - Research Focus: Multimodal Large Models, Reinforcement Learning, Reasoning.
 
-- *2024.03 - 2025.03*, Beijing University of Chemical Technology, Vision Lab.  
+- *2024.01 - 2025.03*, Beijing University of Chemical Technology, Vision Lab.  
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
   - Research Focus: Label-Noise Learning, Semi-Supervised Learning, Test-Time Adaptation.
 
