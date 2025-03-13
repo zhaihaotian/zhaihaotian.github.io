@@ -42,9 +42,9 @@ Previously, my research interests were in learning with noisy labels, semi-super
   </div>
   <div class='paper-box-text' markdown="1">
 
-Mitigating Cache Noise in Test-Time Adaptation for Large Vision-Language Models
+[Mitigating Cache Noise in Test-Time Adaptation for Large Vision-Language Models]()
 
-Also accepted at ICLR 2025 FM-Wild Workshop</span>
+<span style="color:green">Also accepted at ICLR 2025 FM-Wild Workshop</span>
 
 *We propose CRG—a zero-shot TTA method that uses learnable residuals to align visual and text prototypes and Gaussian Discriminant Analysis to model class distributions, boosting vision-language models’ robustness under distribution shifts.*
 
