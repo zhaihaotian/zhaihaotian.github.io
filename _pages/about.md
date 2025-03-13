@@ -24,28 +24,35 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 
 # 🔥 News
-- *2023.10*: &nbsp; 🎉🎉🎉 Achieved a silver (🥈) and a bronze (🥉) medal at the ICPC Asia Regional Contest.
+<!-- - *2023.10*: &nbsp; 🎉🎉🎉 Achieved a silver (🥈) and a bronze (🥉) medal at the ICPC Asia Regional Contest.
 - *2024.01*: &nbsp; 🎉 Joined BUCT Vision Lab, marking a new chapter in my research journey.
 - *2024.11*: &nbsp; 🎉 Began my role as a Visiting Student at HCP, expanding my academic horizons.
-- *2025.01*: &nbsp; 🎉 Started my undergraduate studies at the University of Minnesota Twin Cities.
-- *2025.03*: &nbsp; 🎉🎉🎉One papers accepted at ICLR Workshop on test-time adaptation.
+- *2025.01*: &nbsp; 🎉 Started my undergraduate studies at the University of Minnesota Twin Cities. -->
 - *2025.03*: &nbsp; 🎉🎉🎉Two papers accepted at ICME—one on test-time adaptation and another on video action understanding.
+- *2025.03*: &nbsp; 🎉🎉🎉One papers accepted at ICLR Workshop on test-time adaptation.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICME 2025</div>
+      <img src='images/mitigating-cache-noise.png' alt="Paper Thumbnail" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Mitigating Cache Noise in Test-Time Adaptation for Large Vision-Language Models
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Also accepted at ICLR 2025 FM-Wild Workshop</span>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*We propose CRG—a zero-shot TTA method that uses learnable residuals to align visual and text prototypes and Gaussian Discriminant Analysis to model class distributions, boosting vision-language models’ robustness under distribution shifts.*
+
+**Haotian Zhai<sup>*</sup>, Xinyu Chen<sup>*</sup>, Can Zhang<sup>*</sup>, Tianming Sha, Ruirui Li<sup>†</sup>**
+
+
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
