@@ -21,22 +21,33 @@ I am currently an undergraduate student in computer science at the [University o
 
 Previously, my research interests were in learning with noisy labels, semi-supervised learning, and test-time adaptation. My current research interests include multimodal large models, reinforcement learning—particularly in video understanding—and reasoning in large language models.
 
+# 💻 Experience 
+- *2024.12 - present*, Sun Yat-sen University, HCP Lab, Visiting Student.  
+  <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
+  - Research Focus: Multimodal Large Models, Reinforcement Learning, Reasoning.
 
+- *2024.03 - 2025.03*, Beijing University of Chemical Technology, Vision Lab.  
+  <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
+  - Research Focus: Label-Noise Learning, Semi-Supervised Learning, Test-Time Adaptation.
+
+- *2022.09 - 2023.12*, Beijing University of Chemical Technology, ACM Laboratory.  
+  <!-- - Supervised by [Yong Liu](https://liuyong0076.github.io/) -->
+  - Research Focus: Competitive programming training, with an emphasis on data structures, dynamic programming, and graph theory.
 
 # 🔥 News
 <!-- - *2023.10*: &nbsp; 🎉🎉🎉 Achieved a silver (🥈) and a bronze (🥉) medal at the ICPC Asia Regional Contest.
 - *2024.01*: &nbsp; 🎉 Joined BUCT Vision Lab, marking a new chapter in my research journey.
 - *2024.11*: &nbsp; 🎉 Began my role as a Visiting Student at HCP, expanding my academic horizons.
 - *2025.01*: &nbsp; 🎉 Started my undergraduate studies at the University of Minnesota Twin Cities. -->
-- *2025.03*: &nbsp; 🎉🎉🎉Two papers accepted at ICME—one on test-time adaptation and another on video action understanding.
-- *2025.03*: &nbsp; 🎉🎉🎉One papers accepted at ICLR Workshop on test-time adaptation.
+- *2025.03*: &nbsp; 🎉🎉🎉Two papers accepted at ICME 2025—one on test-time adaptation and another on video action understanding.
+- *2025.03*: &nbsp; 🎉🎉🎉One paper accepted at ICLR 2025 FM-Wild Workshop on test-time adaptation.
 
 # 📝 Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICME 2025</div>
+      <div class="badge">ICME 2025 (CCF-B)</div>
       <img src='images/mitigating-cache-noise.png' alt="Paper Thumbnail" width="100%">
     </div>
   </div>
@@ -55,16 +66,10 @@ Previously, my research interests were in learning with noisy labels, semi-super
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp; 🎉🎉🎉 Achieved a silver (🥈) and a bronze (🥉) medal at the ICPC Asia Regional Contest.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01 - 2026.12 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
