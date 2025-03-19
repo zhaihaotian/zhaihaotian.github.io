@@ -47,6 +47,24 @@ Previously, my research interests were in learning with noisy labels, semi-super
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Under Review</div>
+      <img src='images/MCP.png' alt="Paper Thumbnail" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Multi-Cache enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models]()
+
+<!-- <span style="color:green">Also accepted at ICLR 2025 FM-Wild Workshop</span> -->
+
+*We propose MCP++—a zero-shot TTA framework that employs multi-cache strategies with cross-modal prototype alignment and residual fine-tuning, boosting vision-language models' robustness under distribution shifts.*
+
+**Haotian Zhai<sup>*</sup>, Xinyu Chen<sup>*</sup>, Can Zhang<sup>*</sup>, Ruirui Li<sup>†</sup>**
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">ICME 2025 (CCF-B)</div>
       <img src='images/mitigating-cache-noise.png' alt="Paper Thumbnail" width="100%">
     </div>
