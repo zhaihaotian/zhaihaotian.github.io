@@ -42,7 +42,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 - *2025.03*: &nbsp; 🎉🎉🎉One paper accepted at ICME 2025 on test-time adaptation.
 - *2025.03*: &nbsp; 🎉🎉🎉One paper accepted at ICLR 2025 FM-Wild Workshop on test-time adaptation.
 
-# 📝 Publications 
+# 📝 Publications (* Equal Contribution)
 
 <div class='paper-box'>
   <div class='paper-box-image'>
