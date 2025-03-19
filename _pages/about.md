@@ -61,6 +61,8 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 **Haotian Zhai<sup>*</sup>, Xinyu Chen<sup>*</sup>, Can Zhang<sup>*</sup>, Ruirui Li<sup>†</sup>**
 
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
