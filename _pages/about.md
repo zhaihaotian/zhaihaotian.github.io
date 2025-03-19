@@ -59,7 +59,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 *We propose MCP++—a zero-shot TTA framework that employs multi-cache strategies with cross-modal prototype alignment and residual fine-tuning, boosting vision-language models' robustness under distribution shifts.*
 
-**Haotian Zhai<sup>*</sup>, Xinyu Chen<sup>*</sup>, Can Zhang<sup>*</sup>, Ruirui Li<sup>†</sup>**
+**Xinyu Chen<sup>*</sup>, Haotian Zhai<sup>*</sup>, Can Zhang<sup>*</sup>, Ruirui Li<sup>†</sup>**
 
 </div>
 </div>
