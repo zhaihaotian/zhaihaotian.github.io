@@ -19,12 +19,12 @@ redirect_from:
 
 I am currently an undergraduate student in computer science at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/). I transferred from the [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.html), where I studied computer science for two years. I am also a visiting student at the [HCP Laboratory of Sun Yat-sen University](https://www.sysu-hcp.net/).
 
-Previously, my research interests were in learning with noisy labels, semi-supervised learning, and test-time adaptation. My current research interests include multimodal large models, reinforcement learning—particularly in video understanding—and reasoning in large language models.
+Previously, my research interests were in learning with noisy labels, semi-supervised learning, and test-time adaptation. My current research interests include multimodal large models, reinforcement learning in Embodied Instruction Following and prompt learning.
 
 # 💻 Experience 
 - *2024.12 - present*, Sun Yat-sen University, HCP Lab, Visiting Student.  
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
-  - Research Focus: Multimodal Large Models, Reinforcement Learning, Reasoning.
+  - Research Focus: Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following
 
 - *2024.01 - 2025.03*, Beijing University of Chemical Technology, Vision Lab.  
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
@@ -57,7 +57,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 <!-- <span style="color:green">Also accepted at ICLR 2025 FM-Wild Workshop</span> -->
 
-*We propose MCP++—a zero-shot TTA framework that employs multi-cache strategies with cross-modal prototype alignment and residual fine-tuning, boosting vision-language models' robustness under distribution shifts.*
+*We observed that cache-based test-time adaptation performance is positively correlated with intra-class compactness. To address the unreliability of low-entropy samples under distribution shifts, we propose MCP, which uses an entropy cache for prototype initialization, an align cache to fuse visual and textual information and tighten intra-class distributions, and a negative cache to calibrate high-entropy predictions. We further extend this into the MCP++ framework by introducing cross-modal prototype alignment and residual learning, achieving state-of-the-art generalization on 15 downstream tasks.*
 
 **Xinyu Chen<sup>*</sup>, Haotian Zhai<sup>*</sup>, Can Zhang<sup>*</sup>, Ruirui Li<sup>†</sup>**
 
@@ -77,7 +77,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 <span style="color:green">Also accepted at ICLR 2025 FM-Wild Workshop</span>
 
-*We propose CRG—a zero-shot TTA method that uses learnable residuals to align visual and text prototypes and Gaussian Discriminant Analysis to model class distributions, boosting vision-language models’ robustness under distribution shifts.*
+*We analyzed the root causes of the performance gap between zero-shot and few-shot TTA, identifying noisy cache labels as a critical bottleneck. We then propose the CRG framework, which maintains positive and negative visual prototypes alongside text prototypes, employs learnable residuals to align modalities, and leverages Gaussian Discriminant Analysis to dynamically model class distributions and suppress noisy samples. Finally, by jointly minimizing prediction entropy and maximizing inter-prototype distances, CRG achieves superior robustness and generalization across 13 benchmarks..*
 
 **Haotian Zhai<sup>*</sup>, Xinyu Chen<sup>*</sup>, Can Zhang<sup>*</sup>, Tianming Sha, Ruirui Li<sup>†</sup>**
 
@@ -91,5 +91,5 @@ Previously, my research interests were in learning with noisy labels, semi-super
 # 📖 Educations
 - *2025.01 - 2026.12 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
 
-- *2022.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology
+<!-- - *2022.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology -->
 
