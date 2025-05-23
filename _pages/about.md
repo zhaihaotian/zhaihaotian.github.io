@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student in computer science at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/). I transferred from the [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.html), where I studied computer science for two years. I am also a visiting student at the [HCP Laboratory of Sun Yat-sen University](https://www.sysu-hcp.net/).
+I am currently an undergraduate student in computer science at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/). I transferred from the [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.html), where I studied computer science for one years. I am also a visiting student at the [HCP Laboratory of Sun Yat-sen University](https://www.sysu-hcp.net/).
 
 Previously, my research interests were in learning with noisy labels, semi-supervised learning, and test-time adaptation. My current research interests include multimodal large models, reinforcement learning in Embodied Instruction Following and prompt learning.
 
@@ -89,7 +89,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 - *2023.10*: &nbsp; 🎉🎉🎉 Achieved a silver (🥈) and a bronze (🥉) medal at the ICPC Asia Regional Contest.
 
 # 📖 Educations
-- *2025.01 - 2026.12 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
+- *2025.01 - 2027.6 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
 
 <!-- - *2022.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology -->
 
