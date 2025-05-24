@@ -30,7 +30,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
   - Research Focus: Label-Noise Learning, Semi-Supervised Learning, Test-Time Adaptation.
 
-- *2022.09 - 2023.12*, Beijing University of Chemical Technology, ACM Laboratory.  
+- *2023.09 - 2023.12*, Beijing University of Chemical Technology, ACM Laboratory.  
   <!-- - Supervised by [Yong Liu](https://liuyong0076.github.io/) -->
   - Research Focus: Competitive programming training, with an emphasis on data structures, dynamic programming, and graph theory.
 
