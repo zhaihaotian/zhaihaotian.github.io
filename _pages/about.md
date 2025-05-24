@@ -59,7 +59,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 *We observed that cache-based test-time adaptation performance is positively correlated with intra-class compactness. To address the unreliability of low-entropy samples under distribution shifts, we propose MCP, which uses an entropy cache for prototype initialization, an align cache to fuse visual and textual information and tighten intra-class distributions, and a negative cache to calibrate high-entropy predictions. We further extend this into the MCP++ framework by introducing cross-modal prototype alignment and residual learning, achieving state-of-the-art generalization on 15 downstream tasks.*
 
-**Xinyu Chen<sup>*</sup>, Haotian Zhai<sup>*</sup>, Can Zhang<sup>*</sup>, Ruirui Li<sup>†</sup>**
+**Xinyu Chen<sup>*</sup>, Haotian Zhai<sup>*</sup>, Can Zhang<sup>*</sup>, Xiupeng Shi<sup>†</sup>, Ruirui Li<sup>†</sup>**
 
 </div>
 </div>
@@ -91,5 +91,5 @@ Previously, my research interests were in learning with noisy labels, semi-super
 # 📖 Educations
 - *2025.01 - 2027.6 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
 
-<!-- - *2022.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology -->
+- *2023.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology
 
