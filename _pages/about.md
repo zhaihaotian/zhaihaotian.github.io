@@ -86,6 +86,8 @@ Previously, my research interests were in learning with noisy labels, semi-super
 </div>
 
 # 🎖 Honors and Awards
+- *2025.05*: &nbsp; 🎉🎉🎉  Selected for the Spring 2025 Dean's List, University of Minnesota.
+
 - *2023.10*: &nbsp; 🎉🎉🎉 Achieved a silver (🥈) and a bronze (🥉) medal at the ICPC Asia Regional Contest.
 
 # 📖 Educations
