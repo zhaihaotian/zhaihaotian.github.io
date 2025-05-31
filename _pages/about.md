@@ -67,7 +67,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICME 2025 (CCF-B)</div>
+      <div class="badge">ICME 2025 (Oral)</div>
       <img src='images/mitigating-cache-noise.png' alt="Paper Thumbnail" width="100%">
     </div>
   </div>
