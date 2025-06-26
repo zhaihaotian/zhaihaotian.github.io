@@ -39,6 +39,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 - *2024.01*: &nbsp; 🎉 Joined BUCT Vision Lab, marking a new chapter in my research journey.
 - *2024.11*: &nbsp; 🎉 Began my role as a Visiting Student at HCP, expanding my academic horizons.
 - *2025.01*: &nbsp; 🎉 Started my undergraduate studies at the University of Minnesota Twin Cities. -->
+- *2025.06*: &nbsp; 🎉🎉🎉One paper accepted at ICCV 2025 on test-time adaptation.
 - *2025.03*: &nbsp; 🎉🎉🎉One paper accepted at ICME 2025 on test-time adaptation.
 - *2025.03*: &nbsp; 🎉🎉🎉One paper accepted at ICLR 2025 FM-Wild Workshop on test-time adaptation.
 
@@ -47,7 +48,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review</div>
+      <div class="badge">ICCV 2025</div>
       <img src='images/MCP.png' alt="Paper Thumbnail" width="100%">
     </div>
   </div>
