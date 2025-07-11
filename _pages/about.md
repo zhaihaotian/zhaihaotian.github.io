@@ -19,18 +19,18 @@ redirect_from:
 
 I am currently an undergraduate student in computer science at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/). I transferred from the [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.html), where I studied computer science for one years. I am also a visiting student at the [HCP Laboratory of Sun Yat-sen University](https://www.sysu-hcp.net/).
 
-Previously, my research interests were in learning with noisy labels, semi-supervised learning, and test-time adaptation. My current research interests include multimodal large models, reinforcement learning in Embodied Instruction Following and prompt learning.
+Previously, my research interests were in learning with noisy labels, semi-supervised learning, and test-time adaptation. My current research interests include Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following and Prompt Learning.
 
 # 💻 Experience 
 - *2024.12 - present*, Sun Yat-sen University, HCP Lab, Visiting Student.  
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
   - Research Focus: Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following
 
-- *2024.01 - 2025.03*, Beijing University of Chemical Technology, Vision Lab.  
+- *2024.01 - 2025.03*, Beijing University of Chemical Technology, Vision Lab, Research Assistant
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
   - Research Focus: Label-Noise Learning, Semi-Supervised Learning, Test-Time Adaptation.
 
-- *2023.09 - 2023.12*, Beijing University of Chemical Technology, ACM Laboratory.  
+- *2023.09 - 2023.12*, Beijing University of Chemical Technology, ACM Laboratory, Captain
   <!-- - Supervised by [Yong Liu](https://liuyong0076.github.io/) -->
   - Research Focus: Competitive programming training, with an emphasis on data structures, dynamic programming, and graph theory.
 
