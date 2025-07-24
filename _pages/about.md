@@ -48,7 +48,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCV 2025(Poster)</div>
+      <div class="badge">ICCV 2025 (Poster)</div>
       <img src='images/MCP.png' alt="Paper Thumbnail" width="100%">
     </div>
   </div>
