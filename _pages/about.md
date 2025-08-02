@@ -55,7 +55,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 *We observed that cache-based test-time adaptation performance is positively correlated with intra-class compactness. To address the unreliability of low-entropy samples under distribution shifts, we propose MCP, which uses an entropy cache for prototype initialization, an align cache to fuse visual and textual information and tighten intra-class distributions, and a negative cache to calibrate high-entropy predictions. We further extend this into the MCP++ framework by introducing cross-modal prototype alignment and residual learning, achieving state-of-the-art generalization on 15 downstream tasks.*
 
-**Xinyu Chen<sup>*</sup>, Haotian Zhai<sup>*</sup>, Can Zhang<sup>*</sup>, Xiupeng Shi<sup>†</sup>, Ruirui Li<sup>†</sup>**
+**Haotian Zhai<sup>*</sup> _et al._ (co-first author)**
 
 </div>
 </div>
@@ -75,7 +75,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 *We analyzed the root causes of the performance gap between zero-shot and few-shot TTA, identifying noisy cache labels as a critical bottleneck. We then propose the CRG framework, which maintains positive and negative visual prototypes alongside text prototypes, employs learnable residuals to align modalities, and leverages Gaussian Discriminant Analysis to dynamically model class distributions and suppress noisy samples. Finally, by jointly minimizing prediction entropy and maximizing inter-prototype distances, CRG achieves superior robustness and generalization across 13 benchmarks..*
 
-**Haotian Zhai<sup>*</sup>, Xinyu Chen<sup>*</sup>, Can Zhang<sup>*</sup>, Tianming Sha, Ruirui Li<sup>†</sup>**
+**Haotian Zhai<sup>*</sup> _et al._ (co-first author)**
 
 
 </div>
