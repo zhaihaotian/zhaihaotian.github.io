@@ -27,7 +27,7 @@ author:
   location         : "Minneapolis, United States"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=bTtRCSoAAAAJ&hl=zh-CN"
   email            : "zihan9198@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  codeforces       : https://codeforces.com/profile/zhtzshhh666
 
 
 # Reading Files
