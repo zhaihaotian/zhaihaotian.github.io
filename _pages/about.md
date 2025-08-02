@@ -26,10 +26,6 @@ Previously, my research interests were in learning with noisy labels, semi-super
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
   - Research Focus: Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following
 
-- *2024.01 - 2025.03*, Beijing University of Chemical Technology, Vision Lab, Research Assistant
-  <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
-  - Research Focus: Label-Noise Learning, Semi-Supervised Learning, Test-Time Adaptation.
-
 - *2023.09 - 2023.12*, Beijing University of Chemical Technology, ACM Laboratory, Captain
   <!-- - Supervised by [Yong Liu](https://liuyong0076.github.io/) -->
   - Research Focus: Competitive programming training, with an emphasis on data structures, dynamic programming, and graph theory.
@@ -56,7 +52,6 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 [Multi-Cache enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models]()
 
-<!-- <span style="color:green">Also accepted at ICLR 2025 FM-Wild Workshop</span> -->
 
 *We observed that cache-based test-time adaptation performance is positively correlated with intra-class compactness. To address the unreliability of low-entropy samples under distribution shifts, we propose MCP, which uses an entropy cache for prototype initialization, an align cache to fuse visual and textual information and tighten intra-class distributions, and a negative cache to calibrate high-entropy predictions. We further extend this into the MCP++ framework by introducing cross-modal prototype alignment and residual learning, achieving state-of-the-art generalization on 15 downstream tasks.*
 
@@ -85,6 +80,8 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 </div>
 </div>
+
+
 
 # 🎖 Honors and Awards
 - *2025.05*: &nbsp; 🎉🎉🎉  Selected for the Spring 2025 Dean's List, University of Minnesota.
