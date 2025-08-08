@@ -50,7 +50,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Multi-Cache enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models]()
+[Multi-Cache enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models](https://arxiv.org/abs/2508.01225)
 
 
 *We observed that cache-based test-time adaptation performance is positively correlated with intra-class compactness. To address the unreliability of low-entropy samples under distribution shifts, we propose MCP, which uses an entropy cache for prototype initialization, an align cache to fuse visual and textual information and tighten intra-class distributions, and a negative cache to calibrate high-entropy predictions. We further extend this into the MCP++ framework by introducing cross-modal prototype alignment and residual learning, achieving state-of-the-art generalization on 15 downstream tasks.*
