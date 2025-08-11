@@ -26,9 +26,9 @@ Previously, my research interests were in learning with noisy labels, semi-super
   <!-- - Supervised by [Ruirui Li](https://en-cist.buct.edu.cn/2024/1226/c13314a202781/pagem.htm) -->
   - Research Focus: Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following
 
-- *2023.09 - 2023.12*, Beijing University of Chemical Technology, ACM Laboratory, Captain
+<!-- - *2023.09 - 2023.12*, Beijing University of Chemical Technology, ACM Laboratory, Captain
   <!-- - Supervised by [Yong Liu](https://liuyong0076.github.io/) -->
-  - Research Focus: Competitive programming training, with an emphasis on data structures, dynamic programming, and graph theory.
+  - Research Focus: Competitive programming training, with an emphasis on data structures, dynamic programming, and graph theory. -->
 
 # 🔥 News
 <!-- - *2023.10*: &nbsp; 🎉🎉🎉 Achieved a silver (🥈) and a bronze (🥉) medal at the ICPC Asia Regional Contest.
@@ -94,7 +94,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 - *2023.10*: &nbsp; 🎉🎉🎉 Achieved a silver (🥈) and a bronze (🥉) medal at the ICPC Asia Regional Contest.
 
 # 📖 Educations
-- *2025.01 - 2027.6 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
+- *present - 2027.6 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
 
-- *2023.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology
+<!-- - *2023.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology -->
 
