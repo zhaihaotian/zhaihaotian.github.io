@@ -33,6 +33,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 - *2025.06*: &nbsp; 🎉 One paper accepted at ICCV 2025 on test-time adaptation.
 - *2025.05*: &nbsp; 📝 Submitted one paper about video understanding to NeurIPS 2025.
 - *2025.03*: &nbsp; 🎉 One paper accepted at ICME 2025 on test-time adaptation.
+- *2025.03*: &nbsp; 📝 Submitted one paper on test-time adaptation to ICCV 2025.
 - *2025.03*: &nbsp; 🎉 One paper accepted at ICLR 2025 FM-Wild Workshop on test-time adaptation.
 - *2024.12*: &nbsp; 📝 Submitted two papers to ICME 2025, one on test-time adaptation, the other on video understanding of action.
 
@@ -79,6 +80,10 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 </div>
 </div>
+
+# 🔨 Working Project
+- **One Paper about Embodied Instruction Following and LLM Planning** — 
+  TBA
 
 # 📨 Submissions
 - **ActionLMM: A Large Multimodal Model for Detailed Action Description in Long Videos** — 
