@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student in computer science at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/). I am also a student researcher at the [HCP Laboratory of Sun Yat-sen University](https://www.sysu-hcp.net/).
+I am currently an undergraduate student in computer science at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/). 
 
 Previously, my research interests were in learning with noisy labels, semi-supervised learning, and test-time adaptation. My current research interests include Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following and Prompt Learning.
 
 # 💻 Experience 
-- *2024.12 - present*, Sun Yat-sen University, HCP Lab, Visiting Student.  
-  - Research Focus: Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following
+<!-- - *2024.12 - present*, Sun Yat-sen University, HCP Lab, Visiting Student.  
+  - Research Focus: Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following -->
 
 
 # 🔥 News
