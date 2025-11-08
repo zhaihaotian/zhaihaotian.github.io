@@ -107,11 +107,26 @@ Previously, my research interests were in learning with noisy labels, semi-super
 # 🔨 Working Project
 - **One Paper about Embodied Instruction Following and LLM Planning** — 
   TBA
+- **One paper about computer-use-agent** - 
+  TBA
+
 
 # 📨 Submissions
-- **ActionLMM: A Large Multimodal Model for Detailed Action Description in Long Videos**  
-  <img src='images/ActionLMM.png' alt="ActionLMM Framework" width="100%">  
-  *Introduces a dual-branch Q-Former that jointly learns from raw video frames and 3-D pose sequences, supported by video- and motion-memory banks, and trained on the new 30 k-video ActionCap-30k dataset. ActionLMM delivers fine-grained action captions and surpasses Video-LLaMA and other baselines on VQA, video captioning, and action captioning benchmarks. Submitted to ICME 2025 and received reviewer scores 5/4/3/3/2 (max 5).*   
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICME 2025 Submission • Reviews 5/4/3/3/2</div>
+      <img src='images/ActionLMM.png' alt="ActionLMM Framework" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**ActionLMM: A Large Multimodal Model for Detailed Action Description in Long Videos**
+
+*We observe that existing video-language models (e.g., Video-LaMA, VideoChat) fail to capture fine-grained human actions because of data scarcity, modality misalignment, and the difficulty of modeling long clips. Introduces a dual-branch Q-Former that jointly learns from raw video frames and 3-D pose sequences, supported by video- and motion-memory banks, and trained on the new 30 k-video ActionCap-30k dataset. ActionLMM delivers fine-grained action captions and surpasses Video-LLaMA and other baselines on VQA, video captioning, and action captioning benchmarks.*
+</div>
+</div>
 
 - **FASMM: Frame-Aware Sparse Multimodal Model for Scalable Long-Video Comprehension** — 
   *Proposes Frame-Aware Sparse Attention (FASA) with an importance-driven block selector, cutting KV-cache memory by ≈ 8.8 × while retaining fidelity. FASMM processes tens-of-thousands-frame videos end-to-end and achieves state-of-the-art results on multiple long-video understanding tasks.*  
