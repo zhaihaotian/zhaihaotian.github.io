@@ -28,6 +28,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 # 🔥 News
 
+- *2025.02*: &nbsp; 🎉 FAST-CAD accepted as an Oral at AAAI 2026 (17.6% acceptance rate).
 - *2025.10*: &nbsp; ✈️ Attended ICCV 2025.
 - *2025.08*: &nbsp; 📝 Submitted one paper on healthcare to AAAI 2026.
 - *2025.06*: &nbsp; 🎉 One paper accepted at ICCV 2025 on test-time adaptation.
@@ -42,7 +43,25 @@ Previously, my research interests were in learning with noisy labels, semi-super
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCV 2025 (Poster)</div>
+      <div class="badge">AAAI 2026 (Oral • 17.6% acceptance)</div>
+      <img src='images/FAST-CAD.png' alt="Paper Thumbnail" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**FAST-CAD: A Fairness-Aware Framework for Non-Contact Stroke Diagnosis**
+
+*Stroke is an acute cerebrovascular disease, so we propose FAST-CAD, a DAT + Group-DRO framework that jointly enforces demographic-invariant representations and worst-group robustness for non-contact stroke diagnosis. Built on a 12-subgroup multimodal dataset, it couples adversarial domain discrimination with self-supervised encoders and optimizes worst-group risk, delivering 91.2% AUC and tight fairness bounds backed by domain adaptation and minimax theory.*
+
+**Role:** Collaborating Author.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCV 2025 (Poster • 24% acceptance)</div>
       <img src='images/MCP.png' alt="Paper Thumbnail" width="100%">
     </div>
   </div>
@@ -55,6 +74,8 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 *We observed that cache-based test-time adaptation performance is positively correlated with intra-class compactness. To address the unreliability of low-entropy samples under distribution shifts, we propose MCP, which uses an entropy cache for prototype initialization, an align cache to fuse visual and textual information and tighten intra-class distributions, and a negative cache to calibrate high-entropy predictions. We further extend this into the MCP++ framework by introducing cross-modal prototype alignment and residual learning, achieving state-of-the-art generalization on 15 downstream tasks.*
 
+**Role:** Co-first Author.
+
 <!-- **Haotian Zhai<sup>*</sup> _et al._ (co-first author)** -->
 
 </div>
@@ -63,7 +84,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICME 2025 (Oral)</div>
+      <div class="badge">ICME 2025 (Oral • 27% acceptance)</div>
       <img src='images/mitigating-cache-noise.png' alt="Paper Thumbnail" width="100%">
     </div>
   </div>
@@ -74,6 +95,8 @@ Previously, my research interests were in learning with noisy labels, semi-super
 <span style="color:green">Also accepted at ICLR 2025 FM-Wild Workshop</span>
 
 *We analyzed the root causes of the performance gap between zero-shot and few-shot TTA, identifying noisy cache labels as a critical bottleneck. We then propose the CRG framework, which maintains positive and negative visual prototypes alongside text prototypes, employs learnable residuals to align modalities, and leverages Gaussian Discriminant Analysis to dynamically model class distributions and suppress noisy samples. Finally, by jointly minimizing prediction entropy and maximizing inter-prototype distances, CRG achieves superior robustness and generalization across 13 benchmarks..*
+
+**Role:** First Author.
 
 <!-- **Haotian Zhai<sup>*</sup> _et al._ (co-first author)** -->
 
@@ -101,4 +124,3 @@ Previously, my research interests were in learning with noisy labels, semi-super
 - *present - 2027.6 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
 
 <!-- - *2023.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology -->
-
