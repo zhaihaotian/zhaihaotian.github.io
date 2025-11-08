@@ -109,8 +109,9 @@ Previously, my research interests were in learning with noisy labels, semi-super
   TBA
 
 # 📨 Submissions
-- **ActionLMM: A Large Multimodal Model for Detailed Action Description in Long Videos** — 
-  *Introduces a dual-branch Q-Former that jointly learns from raw video frames and 3-D pose sequences, supported by video- and motion-memory banks, and trained on the new 30 k-video ActionCap-30k dataset. ActionLMM delivers fine-grained action captions and surpasses Video-LLaMA and other baselines on VQA, video captioning, and action captioning benchmarks.*   
+- **ActionLMM: A Large Multimodal Model for Detailed Action Description in Long Videos**  
+  <img src='images/ActionLMM.png' alt="ActionLMM Framework" width="100%">  
+  *Introduces a dual-branch Q-Former that jointly learns from raw video frames and 3-D pose sequences, supported by video- and motion-memory banks, and trained on the new 30 k-video ActionCap-30k dataset. ActionLMM delivers fine-grained action captions and surpasses Video-LLaMA and other baselines on VQA, video captioning, and action captioning benchmarks. Submitted to ICME 2025 and received reviewer scores 5/4/3/3/2 (max 5).*   
 
 - **FASMM: Frame-Aware Sparse Multimodal Model for Scalable Long-Video Comprehension** — 
   *Proposes Frame-Aware Sparse Attention (FASA) with an importance-driven block selector, cutting KV-cache memory by ≈ 8.8 × while retaining fidelity. FASMM processes tens-of-thousands-frame videos end-to-end and achieves state-of-the-art results on multiple long-video understanding tasks.*  
