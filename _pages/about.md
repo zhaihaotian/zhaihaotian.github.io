@@ -28,7 +28,7 @@ Previously, my research interests were in learning with noisy labels, semi-super
 
 # 🔥 News
 
-- *2025.02*: &nbsp; 🎉 FAST-CAD accepted as an Oral at AAAI 2026. Congrats to Tommy Sha! 
+- *2025.11*: &nbsp; 🎉 FAST-CAD accepted as an Oral at AAAI 2026. Congrats to Tommy Sha! 
 - *2025.10*: &nbsp; ✈️ Attended ICCV 2025.
 - *2025.08*: &nbsp; 📝 Submitted one paper on healthcare to AAAI 2026.
 - *2025.06*: &nbsp; 🎉 One paper accepted at ICCV 2025 on test-time adaptation.
