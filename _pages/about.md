@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an undergraduate student in computer science at the [University of Minnesota Twin Cities](https://twin-cities.umn.edu/). 
 
-Previously, my research interests were in learning with noisy labels, semi-supervised learning, and test-time adaptation. My current research interests include Multimodal Large Models, Reinforcement Learning, Embodied Instruction Following and Prompt Learning.
+
 
 # 💻 Experience 
 <!-- - *2024.12 - present*, Sun Yat-sen University, HCP Lab, Visiting Student.  
@@ -107,9 +107,10 @@ Previously, my research interests were in learning with noisy labels, semi-super
 # 🔨 Working Project
 - **One Paper about Embodied Instruction Following and LLM Planning** — 
   TBA
-- **One paper about computer-use-agent** - 
+- **One paper about computer-use-agent** —
   TBA
-
+- **One course project about trustworthy LLM** —
+  TBA
 
 # 📨 Submissions
 
