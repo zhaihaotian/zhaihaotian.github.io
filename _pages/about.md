@@ -25,7 +25,7 @@ I am currently an undergraduate student in computer science at the [University o
 - *2024.12 - 2025.10*, Sun Yat-sen University, HCP Lab, Research Intern.  
   - Research Focus: Multimodal Large Models, Embodied Instruction Following
 
-- *2024.1 - 2025.10*, Beijing University of Chemical Technology, Vision Lab, Research Intern. 
+- *2024.1 - 2025.3*, Beijing University of Chemical Technology, Vision Lab, Research Intern. 
   - Research Focus: Vision-Language Model, Noisy-Label Learning, Test-Time Adaptation
 
 - *2023.9 - 2023.12*, Beijing University of Chemical Technology, ACM Lab, Team Captain. 
