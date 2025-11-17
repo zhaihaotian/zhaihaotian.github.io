@@ -148,3 +148,6 @@ I am currently an undergraduate student in computer science at the [University o
 - *present - 2027.6 (expected)*, Bachelor of Arts in Computer Science, University of Minnesota Twin Cities
 
 <!-- - *2023.09 - 2024.10*, Bachelor of Engineering in Computer Science, Beijing University of Chemical Technology -->
+
+# 🤝 Academic Service
+- Reviewer, ICME 2025, AAAI 2026, ICASSP 2026
