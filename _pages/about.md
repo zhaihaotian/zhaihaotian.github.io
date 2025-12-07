@@ -57,8 +57,7 @@ I am currently an undergraduate student in computer science at the [University o
 **FAST-CAD: A Fairness-Aware Framework for Non-Contact Stroke Diagnosis**
 
 <a href="https://shatianming5.github.io/Fast-CAD/" style="color: purple; text-decoration: none;">Project Page</a>
-&nbsp;|&nbsp;<a href="https://mp.weixin.qq.com/s/3udnS0W33Bc28qX9DCCVZw" style="color: #1DA1F2; text-decoration: none;">Media Coverage(Wechat)</a>
-&nbsp;|&nbsp;<a href="https://www.mittrchina.com/news/detail/15485" style="color: #f15c22; text-decoration: none;">MIT Tech Review China</a>
+&nbsp;|&nbsp;<a href="https://www.mittrchina.com/news/detail/15485" style="color: #f15c22; text-decoration: none;">MIT Tech Review </a>
 
 *Stroke is an acute cerebrovascular disease, so we propose FAST-CAD, a DAT + Group-DRO framework that jointly enforces demographic-invariant representations and worst-group robustness for non-contact stroke diagnosis. Built on a 12-subgroup multimodal dataset, it couples adversarial domain discrimination with self-supervised encoders and optimizes worst-group risk, delivering 91.2% AUC and tight fairness bounds backed by domain adaptation and minimax theory.*
 
