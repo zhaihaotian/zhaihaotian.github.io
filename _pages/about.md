@@ -67,7 +67,7 @@ I am currently an undergraduate student in computer science at the [University o
 </div>
 </div>
 
-<div class='paper-box'>å
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCV 2025 (Poster • 24% acceptance)</div>
