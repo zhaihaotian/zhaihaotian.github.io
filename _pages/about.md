@@ -22,13 +22,13 @@ I am currently an undergraduate student in computer science at the [University o
 
 
 # 💻 Experience 
-- *2024.11 - 2025.10*, Sun Yat-sen University, HCP Lab, Research Intern.  
+- *2024.11 - 2025.10*, Sun Yat-sen University, HCP Lab  
   - Research Focus: Multimodal Large Models, Embodied Instruction Following
 
-- *2024.1 - 2025.3*, Beijing University of Chemical Technology, Vision Lab, Research Intern. 
+- *2024.1 - 2025.3*, Beijing University of Chemical Technology, Vision Lab 
   - Research Focus: Vision-Language Model, Noisy-Label Learning, Test-Time Adaptation
 
-- *2023.9 - 2023.12*, Beijing University of Chemical Technology, ACM Lab, Team Captain. 
+- *2023.9 - 2023.12*, Beijing University of Chemical Technology, ACM Labå. 
   - Track: Data Structures / Graph Theory / Dynamic Programming — 📈 Contest rating: <a href="https://codeforces.com/profile/zhtzshhh666" style="color:#8A2BE2; font-weight:600;">1942</a>.
 
 # 🔥 News
@@ -67,7 +67,7 @@ I am currently an undergraduate student in computer science at the [University o
 </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'>å
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCV 2025 (Poster • 24% acceptance)</div>
@@ -113,13 +113,34 @@ I am currently an undergraduate student in computer science at the [University o
 </div>
 </div>
 
-# 🔨 Working Project
+# 🔨 Project
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CSCI 5561 Course Project</div>
+      <img src='images/feature-3dgs.png' alt="Feature-3DGS pipeline" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[“Can We Make Feature-3DGS Faster, Better, and Smaller?”]({{ '/assets/papers/feature-3dgs.pdf' | relative_url }})
+
+*We accelerate and shrink Feature-3DGS with semantic-aware Gaussian pruning and consistency loss, keeping fine details while boosting FPS and mIoU across Replica and Gopher/LindHall scenes.*
+
+**Team:** Minseong Kweon, Haotian Zhai, Yang Liu
+
+</div>
+</div>
+
 - **One Paper about Embodied Instruction Following and LLM Planning** — 
   TBA
 - **One paper about computer-use-agent** —
   TBA
 - **One course project about trustworthy LLM** —
   TBA
+
+  
 
 # 📨 Submissions
 
