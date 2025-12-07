@@ -128,7 +128,6 @@ I am currently an undergraduate student in computer science at the [University o
 
 *We accelerate and shrink Feature-3DGS with semantic-aware Gaussian pruning and consistency loss, keeping fine details while boosting FPS and mIoU across Replica and Gopher/LindHall scenes.*
 
-**Team:** Minseong Kweon, Haotian Zhai, Yang Liu
 
 </div>
 </div>
