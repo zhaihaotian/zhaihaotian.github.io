@@ -135,10 +135,24 @@ I am currently an undergraduate student in computer science at the [University o
   TBA
 - **One paper about computer-use-agent** —
   TBA
-- **One course project about trustworthy LLM** —
-  TBA
 
-  
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CSCI 5541 Course Project</div>
+      <img src='images/RLVR.png' alt="Abstain-R1 pipeline" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**Abstain-R1: Absent Recognition and Calibration in Post-Training of LLMs**
+
+<a href="https://zhaihaotian.github.io/csci5541-project-template/" style="color: purple; text-decoration: none;">Project Page</a>
+
+*We propose Abstain-R1 that explicitly learns when to abstain on unanswerable queries and generates semantically meaningful post-refusal clarifications, improving refusal calibration while preserving strong performance on answerable prompts.*
+
+</div>
+</div>
 
 # 📨 Submissions
 
